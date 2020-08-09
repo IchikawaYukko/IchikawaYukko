@@ -5,9 +5,11 @@
 ![Job: Infrastructure Engineer](https://img.shields.io/badge/Work-Infrastructure%20Engineer-blueviolet)  
 ![Linux: Passing](https://img.shields.io/badge/Linux-Passing-yellow)
 ![Docker: Passing](https://img.shields.io/badge/Docker-Passing-blue)
+![Ansible: Passing](https://img.shields.io/badge/Ansible-Passing-blue)
 ![CircleCI: WantDo](https://img.shields.io/badge/CircleCI-WantDo-blue)
 ![ConoHa VPS: Running](https://img.shields.io/badge/ConoHaVPS-Running-lightgray)
 ![EC2: Running](https://img.shields.io/badge/EC2-Running-lightgray)
+![CloudFormation: Passing](https://img.shields.io/badge/CloudFormation-Passing-lightgray)
 
 ![PHP: Passing](https://img.shields.io/badge/PHP-Passing-blueviolet)
 ![JavaScript: Maybe?](https://img.shields.io/badge/JavaScript-Maybe%3F-blue)
