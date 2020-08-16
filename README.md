@@ -19,6 +19,7 @@
 ![C#: Maybe?](https://img.shields.io/badge/C%23-Maybe%3F-brightgreen)
 ![Go: Passing](https://img.shields.io/badge/Go-Passing-lightblue)
 ![Java: Passing?](https://img.shields.io/badge/Java-Passing%3F-darkblue)
+![VBA: Passing](https://img.shields.io/badge/VBA-Passing-darkblue)
 ![Z80Asm: Passing](https://img.shields.io/badge/Z80Asm-Passing-yellow)
 ![x64Asm: Learning](https://img.shields.io/badge/x64Asm-Learning-yellow)
 
