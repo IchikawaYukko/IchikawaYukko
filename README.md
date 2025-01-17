@@ -1,18 +1,20 @@
-# ![Hi!](https://twemoji.maxcdn.com/v/13.0.0/72x72/1f469-200d-1f4bb.png) Yuriko-san here~
+# 👩🏻‍💻Hi! Yuriko-san here~
 
-![Age: 32](https://img.shields.io/badge/Age-32-green)
+![Age: 36](https://img.shields.io/badge/Age-36-green)
 ![Type: Freelancer](https://img.shields.io/badge/Type-Freelancer-orange)
-![Job: Infrastructure Engineer](https://img.shields.io/badge/Work-Infrastructure%20Engineer-blueviolet)  
+![Job: Infrastructure Engineer / Translator](https://img.shields.io/badge/Work-Infrastructure%20Engineer%20%2F%20Translator-blueviolet)  
 ![Linux: Passing](https://img.shields.io/badge/Linux-Passing-yellow)
 ![Docker: Passing](https://img.shields.io/badge/Docker-Passing-blue)
 ![Ansible: Passing](https://img.shields.io/badge/Ansible-Passing-blue)
 ![CircleCI: WantDo](https://img.shields.io/badge/CircleCI-WantDo-blue)
 ![ConoHa VPS: Running](https://img.shields.io/badge/ConoHaVPS-Running-lightgray)
-![EC2: Running](https://img.shields.io/badge/EC2-Running-lightgray)
+![EC2: Terminated](https://img.shields.io/badge/EC2-Terminated-lightgray)
 ![CloudFormation: Passing](https://img.shields.io/badge/CloudFormation-Passing-lightgray)
 
 ![PHP: Passing](https://img.shields.io/badge/PHP-Passing-blueviolet)
 ![JavaScript: Maybe?](https://img.shields.io/badge/JavaScript-Maybe%3F-blue)
+![TypeScript: Maybe?](https://img.shields.io/badge/TypeScript-Maybe%3F-blue)
+![Python3: Passing](https://img.shields.io/badge/Python3-Passing-blue)
 
 ![C: Passing](https://img.shields.io/badge/C-Passing-brightgreen)
 ![C++: Maybe?](https://img.shields.io/badge/C%2B%2B-Maybe%3F-brightgreen)
