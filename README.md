@@ -27,3 +27,8 @@
 
 ![CCNA: Passed!](https://img.shields.io/badge/CCNA-Passed!-glay)
 ![Life: Travel&Game](https://img.shields.io/badge/Life-Travel%26Game-red)  
+
+<img
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchikawaYukko&layout=compact&langs_count=10"
+	alt="Top Langs"
+/>
